@@ -1,9 +1,10 @@
 
 ok go ahead ranjith you are doing great 
-<<<<<<< HEAD
+
 
 
 this is me typing this text to find conflicts
-=======
+
  second time bro.....
->>>>>>> d26143690bc6f591331af43743273cc805c3597d
+third time ippa type panrathu oru file la mattum tha varanum innoru file la
+vaera kudathu
